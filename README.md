@@ -8,7 +8,7 @@ The project demonstrates data analysis, visualization, and storytelling using Po
   Power BI file containing all reports and dashboards.
 
 ## 📊 Key Insights
-- Interactive dashboards for data exploration.
+- Interactive dashboard for data exploration.
 - Visual representation of trends, comparisons, and KPIs.
 - Filters and slicers for dynamic analysis.
 

@@ -1,6 +1,6 @@
 # Power BI Project - Clementina Fakornam Klomey
 
-This repository contains my Power BI project showcasing interactive dashboards and insights.  
+This repository contains my Power BI project both Individual and group project showcasing interactive dashboards and insights.  
 The project demonstrates data analysis, visualization, and storytelling using Power BI.
 
 ## 📂 Project Contents
